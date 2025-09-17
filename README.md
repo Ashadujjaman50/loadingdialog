@@ -1,6 +1,3 @@
-নিশ্চয়, আমি তোমার জন্য **`README.md`** ফাইল তৈরি করে দিচ্ছি। তুমি এটা সরাসরি তোমার `loadingdialog` module-এ রাখতে পারো।
-
-````markdown
 # LoadingDialog
 
 A simple and customizable **loading dialog** library for Android.  
@@ -34,7 +31,7 @@ Add the dependency:
 
 ```gradle
 dependencies {
-    implementation 'com.github.yourusername:loadingdialog:1.0.0'
+    implementation 'com.github.Ashadujjaman50:loadingdialog:1.0.0'
 }
 ```
 
@@ -105,12 +102,5 @@ You can edit the XML layout to match your app theme and design.
 
 ## License
 
-MIT License © \[Your Name]
+MIT License © \[Ashadujjaman50]
 
-```
-
----
-
-যদি চাও আমি এই README এর সাথে **`dialog_loading.xml` এবং folder structure** ও দেখিয়ে দিতে পারি, যাতে GitHub-ready পুরো library তৈরি হয়।  
-চাও কি আমি সেটা করি?
-```

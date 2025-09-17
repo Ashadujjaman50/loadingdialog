@@ -35,7 +35,6 @@ dependencies {
 }
 ```
 
-> Replace `yourusername` with your GitHub username and `1.0.0` with your release tag.
 
 ---
 
